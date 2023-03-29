@@ -23,6 +23,8 @@
     "typescript": "5.0.2"
   },
   "devDependencies": {
+    "@types/imagemin": "^8.0.1",
+    "@types/imagemin-jpegtran": "^5.0.1",
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.7"
