@@ -12,7 +12,7 @@ import { useEffect, useRef, useState } from "react";
 const inter = Inter({ subsets: ["latin"] });
 
 interface IHomeProps {
-  images: ImageProps;
+  images: ImageProps[];
 }
 
 const Home: NextPage<IHomeProps> = ({ images }) => {
