@@ -56,10 +56,10 @@ const Home: NextPage<IHomeProps> = ({ images }) => {
         <div className="columns-1 gap-4 sm:columns-2 xl:columns-3 2xl:columns-4">
           <div className="mb-5 flex h-[629px] flex-col items-center justify-end gap-4 overflow-hidden rounded-lg bg-white/10 px-6 pb-16 pt-64 text-center text-white shadow-highlight">
             <h1 className="mt-8 mb-4 text-base font-bold uppercase tracking-widest">
-              2023 With Milenazita Best Photos
+              Uma estranha forma de vida baseada em carbono
             </h1>
             <p className="max-w-[40ch] text-white/75 sm:max-w-[32ch]">
-              Sempre que quiser lembrar de mim!
+              algumas ações parecem não ter reação, mas as dimensões mudam e os mundos se alinham tão certo quanto ondas de água se espalhando depois de jogar pedras no mar
             </p>
           </div>
 
