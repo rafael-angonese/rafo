@@ -1,6 +1,6 @@
 
 
-# Curso de frontend
+# Curso
 
 
 # Internet
@@ -20,21 +20,43 @@
 - Estrutura básica de um documento HTML
 - DOCTYPE e versões do HTML
 - Head vs Body
-- Elementos, tags e atributos
+- Elementos
+    - anatomia de um elemento tag
+    - p
+    - button
+    - input
+    - elementos vazios
 
 ## Elementos Básicos
 - Headings (h1-h6)
 - Parágrafos (p)
-- Links (a)
-- Imagens (img)
 - Listas (ul, ol, li)
-- Divisões (div) e spans
+- Elementos genéricos Divisões (div) e spans
+- Comentários
+- Caracteres reservados
+    - &nbsp;
+    - &quot;
+    - &lt;
+    - &gt;
+- Atributos
+    - input
+    - type
+    - disabled
+- Tag acora - Links (a)
+    - href
+    - target
+    - link, scroll
+    - diretórios
 
 ## Formulários
 - Elemento form e atributos
-- Tipos de input (text, email, password, number, etc.)
-- Labels e acessibilidade
-- Textarea e select
+- Form
+- Label
+- Input
+- Tipos de input (text, email, password, number, url, file, color, checkbox, hidden, radio, search, range, data e hora.)
+- Atributos do input - autocomplete, autofocus, disabled, readonly, value, name, id.
+- Textarea
+- Select
 - Buttons e tipos
 - Validação HTML5
 
@@ -42,22 +64,29 @@
 - Estrutura básica (table, tr, td, th)
 - Cabeçalhos e rodapés (thead, tbody, tfoot)
 - Colspan e rowspan
-- Acessibilidade em tabelas
 
 ## Multimedia
-- Audio e video
+- Imagens (img)
+- Audio
+- Video
+- Iframe
 - Elementos figure e figcaption
-- Responsividade com picture e srcset
 - Embed e object
 
 ## HTML Semântico
 - Elementos estruturais (header, nav, main, aside, footer)
-- Article vs section
-- Time e address
-- Microdata e Schema.org básico
+- Header
+- Nav
+- Main
+- Article
+- Aside
+- Footer
+- Section
 
 ## Metadados e SEO
+- Head
 - Meta tags essenciais
+- Title
 - Open Graph
 - Twitter Cards
 - Favicon
